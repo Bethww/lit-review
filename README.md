@@ -8,6 +8,13 @@ A seven-phase, problem-driven Claude Custom Skill that transforms literature rev
 
 一个七阶段、问题驱动的 Claude 自定义技能，将文献综述从「文献搬运」升级为「学术论证」。
 
+**Warnings: AI is your copilot, not the pilot. This tool won't write your paper for you.** It handles the grunt work, so you can focus on the parts that actually require your brain: defining the question, choosing the method, interpreting what the data means.
+
+**⚠️注意：AI 是你的助手，不是主力。这个工具不会帮你写论文。** 它负责繁重的工作，让你能专注于真正需要动脑的部分：定义问题、思考理论贡献、选择方法、解读数据含义等等
+
+**The goal is quality, not cheating. 目标是质量，不是作弊！**
+
+
 ---
 
 ## ✨ Core Philosophy | 核心理念
